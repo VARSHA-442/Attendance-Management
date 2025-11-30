@@ -16,15 +16,6 @@ A full-stack Attendance Management System where:
 
 ---
 
-## 📂 Project Structure
-
-Attendance-Management/
-└── Attendance Management/
-├── client/ # React Frontend
-└── server/ # Backend 
-
----
-
 ## 🔧 Setup Instructions
 
 ### 1️⃣ Clone the Repository
