@@ -12,7 +12,7 @@ A full-stack Attendance Management System where:
 
 **Frontend:** React (Vite) + Zustand / Redux Toolkit  
 **Backend:** Node.js + Express  
-**Database:** MongoDB / PostgreSQL (depending on your setup)
+**Database:** MongoDB / PostgreSQL 
 
 ---
 
